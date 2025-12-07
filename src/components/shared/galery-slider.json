@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_shared_galery_sliders",
+  "info": {
+    "displayName": "galery_slider",
+    "icon": "dashboard"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "autoplay": {
+      "type": "boolean"
+    },
+    "image_item": {
+      "type": "component",
+      "component": "shared.images",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

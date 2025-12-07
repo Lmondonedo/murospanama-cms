@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "testimonial_pages",
+  "info": {
+    "singularName": "testimonial-page",
+    "pluralName": "testimonial-pages",
+    "displayName": "TestimonialPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "blocks"
+    },
+    "isRandom": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

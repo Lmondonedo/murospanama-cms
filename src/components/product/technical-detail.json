@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_product_technical_details",
+  "info": {
+    "displayName": "TechnicalDetail",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "material": {
+      "type": "string",
+      "required": true
+    },
+    "quantity": {
+      "type": "integer",
+      "required": true
+    },
+    "section": {
+      "type": "string",
+      "required": true
+    },
+    "long": {
+      "type": "string"
+    },
+    "thickness": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

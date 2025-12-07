@@ -1,0 +1,40 @@
+{
+  "kind": "singleType",
+  "collectionName": "location_pages",
+  "info": {
+    "singularName": "location-page",
+    "pluralName": "location-pages",
+    "displayName": "LocationPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "fullAddress": {
+      "type": "text"
+    },
+    "mapLink": {
+      "type": "string"
+    },
+    "mapCoordinates": {
+      "type": "json"
+    },
+    "map": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

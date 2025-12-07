@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_stat_blocks",
+  "info": {
+    "displayName": "stat_block",
+    "icon": "chartCircle"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

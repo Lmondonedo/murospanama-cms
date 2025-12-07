@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_shared_icon_bullet_points",
+  "info": {
+    "displayName": "Icon Bullet Point",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}
