@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_product_pricings",
+  "info": {
+    "displayName": "Pricing"
+  },
+  "options": {},
+  "attributes": {
+    "unitType": {
+      "type": "enumeration",
+      "enum": [
+        "Unidad",
+        "Metro Lineal",
+        "Metro Cuadrado"
+      ]
+    },
+    "basePrice": {
+      "type": "decimal"
+    },
+    "onSale": {
+      "type": "boolean",
+      "default": false
+    },
+    "salePrice": {
+      "type": "decimal"
+    },
+    "bulkDiscount": {
+      "type": "json"
+    }
+  },
+  "config": {}
+}
