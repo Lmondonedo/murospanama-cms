@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_shared_schedule_exceptions",
+  "info": {
+    "displayName": "schedule-exception"
+  },
+  "options": {},
+  "attributes": {
+    "date": {
+      "type": "date",
+      "required": true
+    },
+    "state": {
+      "type": "enumeration",
+      "required": true,
+      "enum": [
+        "Cerrado",
+        "HorarioReducido",
+        "HorarioExtendido"
+      ]
+    },
+    "reason": {
+      "type": "string"
+    },
+    "open": {
+      "type": "time"
+    },
+    "close": {
+      "type": "time"
+    }
+  },
+  "config": {}
+}

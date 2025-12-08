@@ -16,25 +16,6 @@
     },
     "description": {
       "type": "text"
-    },
-    "fullAddress": {
-      "type": "text"
-    },
-    "mapLink": {
-      "type": "string"
-    },
-    "mapCoordinates": {
-      "type": "json"
-    },
-    "map": {
-      "type": "media",
-      "multiple": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
     }
   }
 }

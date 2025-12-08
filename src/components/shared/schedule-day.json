@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_shared_schedule_days",
+  "info": {
+    "displayName": "schedule-day"
+  },
+  "options": {},
+  "attributes": {
+    "day": {
+      "type": "enumeration",
+      "enum": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes",
+        "Sábado",
+        "Domingo"
+      ]
+    },
+    "open": {
+      "type": "time"
+    },
+    "close": {
+      "type": "time"
+    },
+    "isOpen": {
+      "type": "boolean",
+      "default": true
+    }
+  },
+  "config": {}
+}

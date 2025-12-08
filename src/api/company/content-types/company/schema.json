@@ -1,0 +1,56 @@
+{
+  "kind": "singleType",
+  "collectionName": "companies",
+  "info": {
+    "singularName": "company",
+    "pluralName": "companies",
+    "displayName": "Company"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
+    "instagram": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "address": {
+      "type": "text"
+    },
+    "telephone": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "mapLocation": {
+      "type": "text"
+    },
+    "schedule": {
+      "type": "component",
+      "component": "shared.schedule-day",
+      "repeatable": true,
+      "required": true
+    },
+    "scheduleExceptions": {
+      "type": "component",
+      "component": "shared.schedule-exception",
+      "repeatable": true
+    }
+  }
+}

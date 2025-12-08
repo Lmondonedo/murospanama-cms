@@ -114,6 +114,46 @@ export interface SharedRichText extends Struct.ComponentSchema {
   };
 }
 
+export interface SharedScheduleDay extends Struct.ComponentSchema {
+  collectionName: 'components_shared_schedule_days';
+  info: {
+    displayName: 'schedule-day';
+  };
+  attributes: {
+    close: Schema.Attribute.Time;
+    day: Schema.Attribute.Enumeration<
+      [
+        'Lunes',
+        'Martes',
+        'Mi\u00E9rcoles',
+        'Jueves',
+        'Viernes',
+        'S\u00E1bado',
+        'Domingo',
+      ]
+    >;
+    isOpen: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    open: Schema.Attribute.Time;
+  };
+}
+
+export interface SharedScheduleException extends Struct.ComponentSchema {
+  collectionName: 'components_shared_schedule_exceptions';
+  info: {
+    displayName: 'schedule-exception';
+  };
+  attributes: {
+    close: Schema.Attribute.Time;
+    date: Schema.Attribute.Date & Schema.Attribute.Required;
+    open: Schema.Attribute.Time;
+    reason: Schema.Attribute.String;
+    state: Schema.Attribute.Enumeration<
+      ['Cerrado', 'HorarioReducido', 'HorarioExtendido']
+    > &
+      Schema.Attribute.Required;
+  };
+}
+
 export interface SharedSeo extends Struct.ComponentSchema {
   collectionName: 'components_shared_seos';
   info: {
@@ -165,6 +205,8 @@ declare module '@strapi/strapi' {
       'shared.media': SharedMedia;
       'shared.quote': SharedQuote;
       'shared.rich-text': SharedRichText;
+      'shared.schedule-day': SharedScheduleDay;
+      'shared.schedule-exception': SharedScheduleException;
       'shared.seo': SharedSeo;
       'shared.slider': SharedSlider;
       'shared.stat-block': SharedStatBlock;
