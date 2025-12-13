@@ -20,13 +20,13 @@ export default {
    */
   async bootstrap({ strapi }: { strapi: Core.Strapi }) {
     // Importar datos exportados en el primer arranque
-    await importExportedDataOnBootstrap();
+    await importExportedDataOnBootstrap(strapi);
   },
 };
 
-async function importExportedDataOnBootstrap() {
+async function importExportedDataOnBootstrap(strapi: Core.Strapi) {
   try {
-    const shouldImportData = await isFirstRun();
+    const shouldImportData = await isFirstRun(strapi);
 
     if (shouldImportData) {
       console.log('📦 Importando datos exportados...');
@@ -92,7 +92,7 @@ async function importExportedDataOnBootstrap() {
   }
 }
 
-async function isFirstRun() {
+async function isFirstRun(strapi: Core.Strapi) {
   try {
     const pluginStore = strapi.store({
       environment: strapi.config.environment,
