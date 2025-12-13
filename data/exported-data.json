@@ -1,0 +1,3699 @@
+{
+  "about": [
+    {
+      "id": 1,
+      "documentId": "lnazj18eug7n2bi1nggp981s",
+      "title": "Sobre Muros Panamá",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En Muros Panamá, somos especialistas en la instalación de cercas de PVC de alta calidad. Con años de experiencia en el mercado panameño, nos hemos consolidado como líderes en soluciones de cercado duraderas y elegantes.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nuestro compromiso es proporcionar a cada cliente productos excepcionales que combinen durabilidad, estética y funcionalidad. Trabajamos con los mejores materiales del mercado para garantizar cercas que resistan el clima tropical de Panamá sin necesidad de mantenimiento constante.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cada instalación es realizada por nuestro equipo de profesionales capacitados, asegurando acabados perfectos y la satisfacción total de nuestros clientes. Tu tranquilidad y la protección de tu propiedad son nuestra prioridad.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-11-03T18:27:00.479Z",
+      "updatedAt": "2025-12-07T15:02:51.676Z",
+      "publishedAt": "2025-12-07T15:02:51.642Z",
+      "locale": null,
+      "images": [
+        {
+          "id": 17,
+          "documentId": "b1w5y08ysv29zukubaounotk",
+          "name": "Gemini_Generated_Image_zerr6yzerr6yzerr.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1760,
+          "height": 2432,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "/uploads/large_Gemini_Generated_Image_zerr6yzerr6yzerr_88e40249ef.png",
+              "hash": "large_Gemini_Generated_Image_zerr6yzerr6yzerr_88e40249ef",
+              "mime": "image/png",
+              "name": "large_Gemini_Generated_Image_zerr6yzerr6yzerr.png",
+              "path": null,
+              "size": 1413.44,
+              "width": 724,
+              "height": 1000,
+              "sizeInBytes": 1413442
+            },
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_Gemini_Generated_Image_zerr6yzerr6yzerr_88e40249ef.png",
+              "hash": "small_Gemini_Generated_Image_zerr6yzerr6yzerr_88e40249ef",
+              "mime": "image/png",
+              "name": "small_Gemini_Generated_Image_zerr6yzerr6yzerr.png",
+              "path": null,
+              "size": 372.85,
+              "width": 362,
+              "height": 500,
+              "sizeInBytes": 372850
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_Gemini_Generated_Image_zerr6yzerr6yzerr_88e40249ef.png",
+              "hash": "medium_Gemini_Generated_Image_zerr6yzerr6yzerr_88e40249ef",
+              "mime": "image/png",
+              "name": "medium_Gemini_Generated_Image_zerr6yzerr6yzerr.png",
+              "path": null,
+              "size": 802.09,
+              "width": 543,
+              "height": 750,
+              "sizeInBytes": 802094
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_Gemini_Generated_Image_zerr6yzerr6yzerr_88e40249ef.png",
+              "hash": "thumbnail_Gemini_Generated_Image_zerr6yzerr6yzerr_88e40249ef",
+              "mime": "image/png",
+              "name": "thumbnail_Gemini_Generated_Image_zerr6yzerr6yzerr.png",
+              "path": null,
+              "size": 44.43,
+              "width": 113,
+              "height": 156,
+              "sizeInBytes": 44431
+            }
+          },
+          "hash": "Gemini_Generated_Image_zerr6yzerr6yzerr_88e40249ef",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 1877.96,
+          "url": "/uploads/Gemini_Generated_Image_zerr6yzerr6yzerr_88e40249ef.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-12-07T15:02:37.350Z",
+          "updatedAt": "2025-12-07T15:02:37.350Z",
+          "publishedAt": "2025-12-07T15:02:37.351Z",
+          "locale": null
+        }
+      ],
+      "keyStats": [
+        {
+          "id": 1,
+          "value": "10+",
+          "label": "Años de Experiencia"
+        },
+        {
+          "id": 2,
+          "value": "500+",
+          "label": "Proyectos Completados"
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "documentId": "y3jht9w8p43gy721oza7baiz",
+      "name": "Cerca de PVC",
+      "slug": "cerca-pvc",
+      "createdAt": "2025-11-05T20:00:36.707Z",
+      "updatedAt": "2025-11-05T20:21:19.142Z",
+      "publishedAt": "2025-11-05T20:21:19.134Z",
+      "locale": null,
+      "products": [
+        {
+          "id": 1,
+          "documentId": "tzzqtgnt9wdec1i7v4darqxj",
+          "name": "Valla de privacidad total de PVC FenceMaster FM-102 para jardín y casa",
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "FM-102 es una valla de PVC de total privacidad, de 2,44 metros de ancho y 1,83 metros de alto, consta de poste, rieles y tablas (machihembrado). Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables. Las tablas están diseñadas con machihembrado, fáciles de bloquear entre sí y fáciles de instalar. La superficie del tablero está diseñada con ranuras para lograr simplicidad y elegancia. Esta valla es su opción ideal para casas diseñadas con un estilo moderno y contemporáneo.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-11-05T20:19:29.941Z",
+          "updatedAt": "2025-11-09T04:13:59.549Z",
+          "publishedAt": null,
+          "locale": null,
+          "shortDescription": "Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables."
+        },
+        {
+          "id": 9,
+          "documentId": "tzzqtgnt9wdec1i7v4darqxj",
+          "name": "Valla de privacidad total de PVC FenceMaster FM-102 para jardín y casa",
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "FM-102 es una valla de PVC de total privacidad, de 2,44 metros de ancho y 1,83 metros de alto, consta de poste, rieles y tablas (machihembrado). Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables. Las tablas están diseñadas con machihembrado, fáciles de bloquear entre sí y fáciles de instalar. La superficie del tablero está diseñada con ranuras para lograr simplicidad y elegancia. Esta valla es su opción ideal para casas diseñadas con un estilo moderno y contemporáneo.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-11-05T20:19:29.941Z",
+          "updatedAt": "2025-11-09T04:13:59.549Z",
+          "publishedAt": "2025-11-09T04:13:59.579Z",
+          "locale": null,
+          "shortDescription": "Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables."
+        },
+        {
+          "id": 6,
+          "documentId": "f4i9cmtu8ezpud3u2z7avb5v",
+          "name": "Valla de piquete de vinilo de PVC FM-401 para propiedad residencial, jardín",
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "La cerca de estacas FM-401 consta de un poste de 4”x4”, rieles abiertos y nervados de 2”x3-1/2” y estacas de 7/8”x3”. Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales. Esto crea una barrera decorativa pero funcional que puede agregar un toque encantador y acogedor a cualquier propiedad. Las vallas FM-401 también pueden verse como un símbolo de seguridad, ya que pueden mantener a los niños y las mascotas contenidos de forma segura dentro de una propiedad y al mismo tiempo permitir una vista abierta del área circundante.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-11-05T21:03:21.665Z",
+          "updatedAt": "2025-11-09T04:13:13.608Z",
+          "publishedAt": null,
+          "locale": null,
+          "shortDescription": "Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales."
+        },
+        {
+          "id": 8,
+          "documentId": "f4i9cmtu8ezpud3u2z7avb5v",
+          "name": "Valla de piquete de vinilo de PVC FM-401 para propiedad residencial, jardín",
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "La cerca de estacas FM-401 consta de un poste de 4”x4”, rieles abiertos y nervados de 2”x3-1/2” y estacas de 7/8”x3”. Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales. Esto crea una barrera decorativa pero funcional que puede agregar un toque encantador y acogedor a cualquier propiedad. Las vallas FM-401 también pueden verse como un símbolo de seguridad, ya que pueden mantener a los niños y las mascotas contenidos de forma segura dentro de una propiedad y al mismo tiempo permitir una vista abierta del área circundante.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-11-05T21:03:21.665Z",
+          "updatedAt": "2025-11-09T04:13:13.608Z",
+          "publishedAt": "2025-11-09T04:13:13.646Z",
+          "locale": null,
+          "shortDescription": "Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales."
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    }
+  ],
+  "company": [
+    {
+      "id": 1,
+      "documentId": "o396wwn6lik4o78utzrmgsxd",
+      "name": "Muros Panamá",
+      "instagram": "https://www.instagram.com/murospanama?utm_source=ig_web_button_share_sheet&igsh=MW83bzRwdDBhN3c4dw==",
+      "email": "murospanama@gmail.com",
+      "address": "Panamá, La Chorrera, Plaza OnDGo, Local # 4",
+      "telephone": null,
+      "phone": "+507 6825-6073",
+      "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3942.0268332436513!2d-79.7613037!3d8.877093799999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fac99004e38515f%3A0x47022838ccb3e004!2sMUROS%20PANAM%C3%81%20SHOWROOM!5e0!3m2!1ses-419!2spa!4v1765192316359!5m2!1ses-419!2spa",
+      "createdAt": "2025-12-08T10:55:23.448Z",
+      "updatedAt": "2025-12-08T22:55:20.230Z",
+      "publishedAt": null,
+      "locale": null,
+      "logo": {
+        "id": 3,
+        "documentId": "unlefs03a30qamd1nqpsexct",
+        "name": "muros_panama_logo_banner.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 516,
+        "height": 263,
+        "formats": {
+          "small": {
+            "ext": ".png",
+            "url": "/uploads/small_muros_panama_logo_banner_5a096b7c9e.png",
+            "hash": "small_muros_panama_logo_banner_5a096b7c9e",
+            "mime": "image/png",
+            "name": "small_muros_panama_logo_banner.png",
+            "path": null,
+            "size": 86.69,
+            "width": 500,
+            "height": 255,
+            "sizeInBytes": 86693
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "/uploads/thumbnail_muros_panama_logo_banner_5a096b7c9e.png",
+            "hash": "thumbnail_muros_panama_logo_banner_5a096b7c9e",
+            "mime": "image/png",
+            "name": "thumbnail_muros_panama_logo_banner.png",
+            "path": null,
+            "size": 26.85,
+            "width": 245,
+            "height": 125,
+            "sizeInBytes": 26846
+          }
+        },
+        "hash": "muros_panama_logo_banner_5a096b7c9e",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 26.2,
+        "url": "/uploads/muros_panama_logo_banner_5a096b7c9e.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "folderPath": "/",
+        "createdAt": "2025-11-03T23:02:06.748Z",
+        "updatedAt": "2025-11-03T23:02:06.748Z",
+        "publishedAt": "2025-11-03T23:02:06.748Z",
+        "locale": null
+      },
+      "schedule": [
+        {
+          "id": 1,
+          "open": "08:00:00",
+          "close": "17:00:00",
+          "isOpen": true,
+          "day": "Lunes"
+        },
+        {
+          "id": 2,
+          "open": "08:00:00",
+          "close": "17:00:00",
+          "isOpen": true,
+          "day": "Martes"
+        },
+        {
+          "id": 3,
+          "open": "08:00:00",
+          "close": "17:00:00",
+          "isOpen": true,
+          "day": "Miércoles"
+        },
+        {
+          "id": 4,
+          "open": "08:00:00",
+          "close": "17:00:00",
+          "isOpen": true,
+          "day": "Jueves"
+        },
+        {
+          "id": 5,
+          "open": "08:00:00",
+          "close": "17:00:00",
+          "isOpen": true,
+          "day": "Viernes"
+        },
+        {
+          "id": 6,
+          "open": "09:00:00",
+          "close": "18:00:00",
+          "isOpen": true,
+          "day": "Sábado"
+        },
+        {
+          "id": 7,
+          "open": null,
+          "close": null,
+          "isOpen": false,
+          "day": "Domingo"
+        }
+      ],
+      "scheduleExceptions": [
+        {
+          "id": 1,
+          "date": "2025-12-25",
+          "state": "Cerrado",
+          "reason": "Navidad",
+          "open": null,
+          "close": null
+        },
+        {
+          "id": 3,
+          "date": "2025-12-08",
+          "state": "Cerrado",
+          "reason": "Día de las madres",
+          "open": null,
+          "close": null
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 7,
+      "documentId": "o396wwn6lik4o78utzrmgsxd",
+      "name": "Muros Panamá",
+      "instagram": "https://www.instagram.com/murospanama?utm_source=ig_web_button_share_sheet&igsh=MW83bzRwdDBhN3c4dw==",
+      "email": "murospanama@gmail.com",
+      "address": "Panamá, La Chorrera, Plaza OnDGo, Local # 4",
+      "telephone": null,
+      "phone": "+507 6825-6073",
+      "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3942.0268332436513!2d-79.7613037!3d8.877093799999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fac99004e38515f%3A0x47022838ccb3e004!2sMUROS%20PANAM%C3%81%20SHOWROOM!5e0!3m2!1ses-419!2spa!4v1765192316359!5m2!1ses-419!2spa",
+      "createdAt": "2025-12-08T10:55:23.448Z",
+      "updatedAt": "2025-12-08T22:55:20.230Z",
+      "publishedAt": "2025-12-08T22:55:20.256Z",
+      "locale": null,
+      "logo": {
+        "id": 3,
+        "documentId": "unlefs03a30qamd1nqpsexct",
+        "name": "muros_panama_logo_banner.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 516,
+        "height": 263,
+        "formats": {
+          "small": {
+            "ext": ".png",
+            "url": "/uploads/small_muros_panama_logo_banner_5a096b7c9e.png",
+            "hash": "small_muros_panama_logo_banner_5a096b7c9e",
+            "mime": "image/png",
+            "name": "small_muros_panama_logo_banner.png",
+            "path": null,
+            "size": 86.69,
+            "width": 500,
+            "height": 255,
+            "sizeInBytes": 86693
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "/uploads/thumbnail_muros_panama_logo_banner_5a096b7c9e.png",
+            "hash": "thumbnail_muros_panama_logo_banner_5a096b7c9e",
+            "mime": "image/png",
+            "name": "thumbnail_muros_panama_logo_banner.png",
+            "path": null,
+            "size": 26.85,
+            "width": 245,
+            "height": 125,
+            "sizeInBytes": 26846
+          }
+        },
+        "hash": "muros_panama_logo_banner_5a096b7c9e",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 26.2,
+        "url": "/uploads/muros_panama_logo_banner_5a096b7c9e.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "folderPath": "/",
+        "createdAt": "2025-11-03T23:02:06.748Z",
+        "updatedAt": "2025-11-03T23:02:06.748Z",
+        "publishedAt": "2025-11-03T23:02:06.748Z",
+        "locale": null
+      },
+      "schedule": [
+        {
+          "id": 29,
+          "open": "08:00:00",
+          "close": "17:00:00",
+          "isOpen": true,
+          "day": "Lunes"
+        },
+        {
+          "id": 30,
+          "open": "08:00:00",
+          "close": "17:00:00",
+          "isOpen": true,
+          "day": "Martes"
+        },
+        {
+          "id": 31,
+          "open": "08:00:00",
+          "close": "17:00:00",
+          "isOpen": true,
+          "day": "Miércoles"
+        },
+        {
+          "id": 32,
+          "open": "08:00:00",
+          "close": "17:00:00",
+          "isOpen": true,
+          "day": "Jueves"
+        },
+        {
+          "id": 33,
+          "open": "08:00:00",
+          "close": "17:00:00",
+          "isOpen": true,
+          "day": "Viernes"
+        },
+        {
+          "id": 34,
+          "open": "09:00:00",
+          "close": "18:00:00",
+          "isOpen": true,
+          "day": "Sábado"
+        },
+        {
+          "id": 35,
+          "open": null,
+          "close": null,
+          "isOpen": false,
+          "day": "Domingo"
+        }
+      ],
+      "scheduleExceptions": [
+        {
+          "id": 4,
+          "date": "2025-12-25",
+          "state": "Cerrado",
+          "reason": "Navidad",
+          "open": null,
+          "close": null
+        },
+        {
+          "id": 5,
+          "date": "2025-12-08",
+          "state": "Cerrado",
+          "reason": "Día de las madres",
+          "open": null,
+          "close": null
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    }
+  ],
+  "global": [
+    {
+      "id": 1,
+      "documentId": "xzysrci330zpbbsiss2iy476",
+      "siteName": "Muros Panamá",
+      "siteDescription": "Empresa Muros Panamá especializados en cercas de PVC de alta calidad.",
+      "createdAt": "2025-11-03T21:08:16.255Z",
+      "updatedAt": "2025-12-08T21:21:42.796Z",
+      "publishedAt": "2025-12-08T21:21:42.784Z",
+      "locale": null,
+      "favicon": null,
+      "defaultSeo": null,
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    }
+  ],
+  "home-page": [
+    {
+      "id": 1,
+      "documentId": "na49msrtw7k2aquiewyzzmfe",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transformamos espacios con cercas de PVC duraderas, elegantes y de bajo mantenimiento. Calidad garantizada para tu hogar o negocio.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-11-05T21:31:52.036Z",
+      "updatedAt": "2025-11-15T16:21:30.692Z",
+      "publishedAt": null,
+      "locale": null,
+      "images": [
+        {
+          "id": 9,
+          "documentId": "p68p6bx6angyafydeocd0yiz",
+          "name": "pvc_vinilo_3.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 651,
+          "height": 491,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_3_1a5a149d0a.png",
+              "hash": "small_pvc_vinilo_3_1a5a149d0a",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_3.png",
+              "path": null,
+              "size": 497.93,
+              "width": 500,
+              "height": 377,
+              "sizeInBytes": 497928
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_3_1a5a149d0a.png",
+              "hash": "thumbnail_pvc_vinilo_3_1a5a149d0a",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_3.png",
+              "path": null,
+              "size": 90.69,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 90686
+            }
+          },
+          "hash": "pvc_vinilo_3_1a5a149d0a",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 221.95,
+          "url": "/uploads/pvc_vinilo_3_1a5a149d0a.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.938Z",
+          "updatedAt": "2025-11-05T21:00:06.938Z",
+          "publishedAt": "2025-11-05T21:00:06.938Z",
+          "locale": null
+        },
+        {
+          "id": 8,
+          "documentId": "h5ry6isy0f2cv977zqjh5xue",
+          "name": "pvc_vinilo_1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 702,
+          "height": 575,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_1_390258db67.png",
+              "hash": "small_pvc_vinilo_1_390258db67",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_1.png",
+              "path": null,
+              "size": 352.62,
+              "width": 500,
+              "height": 410,
+              "sizeInBytes": 352623
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_1_390258db67.png",
+              "hash": "thumbnail_pvc_vinilo_1_390258db67",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_1.png",
+              "path": null,
+              "size": 60.64,
+              "width": 190,
+              "height": 156,
+              "sizeInBytes": 60640
+            }
+          },
+          "hash": "pvc_vinilo_1_390258db67",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 167.84,
+          "url": "/uploads/pvc_vinilo_1_390258db67.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.816Z",
+          "updatedAt": "2025-11-05T21:00:06.816Z",
+          "publishedAt": "2025-11-05T21:00:06.816Z",
+          "locale": null
+        },
+        {
+          "id": 7,
+          "documentId": "h9fnk2vmjpr15f98ihcxt40n",
+          "name": "pvc_vinilo_2.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 654,
+          "height": 494,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_2_1c3cea0189.png",
+              "hash": "small_pvc_vinilo_2_1c3cea0189",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_2.png",
+              "path": null,
+              "size": 368.55,
+              "width": 500,
+              "height": 378,
+              "sizeInBytes": 368553
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_2_1c3cea0189.png",
+              "hash": "thumbnail_pvc_vinilo_2_1c3cea0189",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_2.png",
+              "path": null,
+              "size": 73.65,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 73647
+            }
+          },
+          "hash": "pvc_vinilo_2_1c3cea0189",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 162.64,
+          "url": "/uploads/pvc_vinilo_2_1c3cea0189.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.638Z",
+          "updatedAt": "2025-11-05T21:00:06.638Z",
+          "publishedAt": "2025-11-05T21:00:06.638Z",
+          "locale": null
+        },
+        {
+          "id": 5,
+          "documentId": "awm7fmcedsh06pzmc71m0pyy",
+          "name": "pvc_1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 647,
+          "height": 489,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_1_3caeea8557.png",
+              "hash": "small_pvc_1_3caeea8557",
+              "mime": "image/png",
+              "name": "small_pvc_1.png",
+              "path": null,
+              "size": 408.56,
+              "width": 500,
+              "height": 378,
+              "sizeInBytes": 408555
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_1_3caeea8557.png",
+              "hash": "thumbnail_pvc_1_3caeea8557",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_1.png",
+              "path": null,
+              "size": 78.64,
+              "width": 206,
+              "height": 156,
+              "sizeInBytes": 78642
+            }
+          },
+          "hash": "pvc_1_3caeea8557",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 180.78,
+          "url": "/uploads/pvc_1_3caeea8557.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.474Z",
+          "updatedAt": "2025-11-05T20:23:44.474Z",
+          "publishedAt": "2025-11-05T20:23:44.475Z",
+          "locale": null
+        },
+        {
+          "id": 6,
+          "documentId": "h9k99wi0pwwbx9zhoc7c1r8u",
+          "name": "pvc_3.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 653,
+          "height": 490,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_3_f1fab5c1ed.png",
+              "hash": "small_pvc_3_f1fab5c1ed",
+              "mime": "image/png",
+              "name": "small_pvc_3.png",
+              "path": null,
+              "size": 413.06,
+              "width": 500,
+              "height": 375,
+              "sizeInBytes": 413063
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_3_f1fab5c1ed.png",
+              "hash": "thumbnail_pvc_3_f1fab5c1ed",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_3.png",
+              "path": null,
+              "size": 81.14,
+              "width": 208,
+              "height": 156,
+              "sizeInBytes": 81137
+            }
+          },
+          "hash": "pvc_3_f1fab5c1ed",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 171.3,
+          "url": "/uploads/pvc_3_f1fab5c1ed.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.562Z",
+          "updatedAt": "2025-11-05T20:23:44.562Z",
+          "publishedAt": "2025-11-05T20:23:44.562Z",
+          "locale": null
+        },
+        {
+          "id": 4,
+          "documentId": "kfewcnyxuiyiwjul7dkxrf68",
+          "name": "pvc_2.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 654,
+          "height": 493,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_2_3cbd3eaf7c.png",
+              "hash": "small_pvc_2_3cbd3eaf7c",
+              "mime": "image/png",
+              "name": "small_pvc_2.png",
+              "path": null,
+              "size": 307.44,
+              "width": 500,
+              "height": 377,
+              "sizeInBytes": 307439
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_2_3cbd3eaf7c.png",
+              "hash": "thumbnail_pvc_2_3cbd3eaf7c",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_2.png",
+              "path": null,
+              "size": 61.03,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 61028
+            }
+          },
+          "hash": "pvc_2_3cbd3eaf7c",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 127.41,
+          "url": "/uploads/pvc_2_3cbd3eaf7c.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.204Z",
+          "updatedAt": "2025-11-05T20:23:44.204Z",
+          "publishedAt": "2025-11-05T20:23:44.204Z",
+          "locale": null
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 3,
+      "documentId": "na49msrtw7k2aquiewyzzmfe",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transformamos espacios con cercas de PVC duraderas, elegantes y de bajo mantenimiento. Calidad garantizada para tu hogar o negocio.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-11-05T21:31:52.036Z",
+      "updatedAt": "2025-11-15T16:21:30.692Z",
+      "publishedAt": "2025-11-15T16:21:30.708Z",
+      "locale": null,
+      "images": [
+        {
+          "id": 9,
+          "documentId": "p68p6bx6angyafydeocd0yiz",
+          "name": "pvc_vinilo_3.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 651,
+          "height": 491,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_3_1a5a149d0a.png",
+              "hash": "small_pvc_vinilo_3_1a5a149d0a",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_3.png",
+              "path": null,
+              "size": 497.93,
+              "width": 500,
+              "height": 377,
+              "sizeInBytes": 497928
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_3_1a5a149d0a.png",
+              "hash": "thumbnail_pvc_vinilo_3_1a5a149d0a",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_3.png",
+              "path": null,
+              "size": 90.69,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 90686
+            }
+          },
+          "hash": "pvc_vinilo_3_1a5a149d0a",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 221.95,
+          "url": "/uploads/pvc_vinilo_3_1a5a149d0a.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.938Z",
+          "updatedAt": "2025-11-05T21:00:06.938Z",
+          "publishedAt": "2025-11-05T21:00:06.938Z",
+          "locale": null
+        },
+        {
+          "id": 8,
+          "documentId": "h5ry6isy0f2cv977zqjh5xue",
+          "name": "pvc_vinilo_1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 702,
+          "height": 575,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_1_390258db67.png",
+              "hash": "small_pvc_vinilo_1_390258db67",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_1.png",
+              "path": null,
+              "size": 352.62,
+              "width": 500,
+              "height": 410,
+              "sizeInBytes": 352623
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_1_390258db67.png",
+              "hash": "thumbnail_pvc_vinilo_1_390258db67",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_1.png",
+              "path": null,
+              "size": 60.64,
+              "width": 190,
+              "height": 156,
+              "sizeInBytes": 60640
+            }
+          },
+          "hash": "pvc_vinilo_1_390258db67",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 167.84,
+          "url": "/uploads/pvc_vinilo_1_390258db67.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.816Z",
+          "updatedAt": "2025-11-05T21:00:06.816Z",
+          "publishedAt": "2025-11-05T21:00:06.816Z",
+          "locale": null
+        },
+        {
+          "id": 7,
+          "documentId": "h9fnk2vmjpr15f98ihcxt40n",
+          "name": "pvc_vinilo_2.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 654,
+          "height": 494,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_2_1c3cea0189.png",
+              "hash": "small_pvc_vinilo_2_1c3cea0189",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_2.png",
+              "path": null,
+              "size": 368.55,
+              "width": 500,
+              "height": 378,
+              "sizeInBytes": 368553
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_2_1c3cea0189.png",
+              "hash": "thumbnail_pvc_vinilo_2_1c3cea0189",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_2.png",
+              "path": null,
+              "size": 73.65,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 73647
+            }
+          },
+          "hash": "pvc_vinilo_2_1c3cea0189",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 162.64,
+          "url": "/uploads/pvc_vinilo_2_1c3cea0189.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.638Z",
+          "updatedAt": "2025-11-05T21:00:06.638Z",
+          "publishedAt": "2025-11-05T21:00:06.638Z",
+          "locale": null
+        },
+        {
+          "id": 5,
+          "documentId": "awm7fmcedsh06pzmc71m0pyy",
+          "name": "pvc_1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 647,
+          "height": 489,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_1_3caeea8557.png",
+              "hash": "small_pvc_1_3caeea8557",
+              "mime": "image/png",
+              "name": "small_pvc_1.png",
+              "path": null,
+              "size": 408.56,
+              "width": 500,
+              "height": 378,
+              "sizeInBytes": 408555
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_1_3caeea8557.png",
+              "hash": "thumbnail_pvc_1_3caeea8557",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_1.png",
+              "path": null,
+              "size": 78.64,
+              "width": 206,
+              "height": 156,
+              "sizeInBytes": 78642
+            }
+          },
+          "hash": "pvc_1_3caeea8557",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 180.78,
+          "url": "/uploads/pvc_1_3caeea8557.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.474Z",
+          "updatedAt": "2025-11-05T20:23:44.474Z",
+          "publishedAt": "2025-11-05T20:23:44.475Z",
+          "locale": null
+        },
+        {
+          "id": 6,
+          "documentId": "h9k99wi0pwwbx9zhoc7c1r8u",
+          "name": "pvc_3.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 653,
+          "height": 490,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_3_f1fab5c1ed.png",
+              "hash": "small_pvc_3_f1fab5c1ed",
+              "mime": "image/png",
+              "name": "small_pvc_3.png",
+              "path": null,
+              "size": 413.06,
+              "width": 500,
+              "height": 375,
+              "sizeInBytes": 413063
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_3_f1fab5c1ed.png",
+              "hash": "thumbnail_pvc_3_f1fab5c1ed",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_3.png",
+              "path": null,
+              "size": 81.14,
+              "width": 208,
+              "height": 156,
+              "sizeInBytes": 81137
+            }
+          },
+          "hash": "pvc_3_f1fab5c1ed",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 171.3,
+          "url": "/uploads/pvc_3_f1fab5c1ed.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.562Z",
+          "updatedAt": "2025-11-05T20:23:44.562Z",
+          "publishedAt": "2025-11-05T20:23:44.562Z",
+          "locale": null
+        },
+        {
+          "id": 4,
+          "documentId": "kfewcnyxuiyiwjul7dkxrf68",
+          "name": "pvc_2.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 654,
+          "height": 493,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_2_3cbd3eaf7c.png",
+              "hash": "small_pvc_2_3cbd3eaf7c",
+              "mime": "image/png",
+              "name": "small_pvc_2.png",
+              "path": null,
+              "size": 307.44,
+              "width": 500,
+              "height": 377,
+              "sizeInBytes": 307439
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_2_3cbd3eaf7c.png",
+              "hash": "thumbnail_pvc_2_3cbd3eaf7c",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_2.png",
+              "path": null,
+              "size": 61.03,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 61028
+            }
+          },
+          "hash": "pvc_2_3cbd3eaf7c",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 127.41,
+          "url": "/uploads/pvc_2_3cbd3eaf7c.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.204Z",
+          "updatedAt": "2025-11-05T20:23:44.204Z",
+          "publishedAt": "2025-11-05T20:23:44.204Z",
+          "locale": null
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    }
+  ],
+  "location-page": [
+    {
+      "id": 1,
+      "documentId": "f9fim6sbapoo1ob16f2yl1ba",
+      "title": "Nuestra Ubicación",
+      "description": "Conoce nuestras oficinas\n",
+      "createdAt": "2025-11-10T19:23:11.847Z",
+      "updatedAt": "2025-11-10T20:11:25.804Z",
+      "publishedAt": null,
+      "locale": null,
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 6,
+      "documentId": "f9fim6sbapoo1ob16f2yl1ba",
+      "title": "Nuestra Ubicación",
+      "description": "Conoce nuestras oficinas\n",
+      "createdAt": "2025-11-10T19:23:11.847Z",
+      "updatedAt": "2025-11-10T20:11:25.804Z",
+      "publishedAt": "2025-11-10T20:11:25.817Z",
+      "locale": null,
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    }
+  ],
+  "product": [
+    {
+      "id": 8,
+      "documentId": "f4i9cmtu8ezpud3u2z7avb5v",
+      "name": "Valla de piquete de vinilo de PVC FM-401 para propiedad residencial, jardín",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La cerca de estacas FM-401 consta de un poste de 4”x4”, rieles abiertos y nervados de 2”x3-1/2” y estacas de 7/8”x3”. Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales. Esto crea una barrera decorativa pero funcional que puede agregar un toque encantador y acogedor a cualquier propiedad. Las vallas FM-401 también pueden verse como un símbolo de seguridad, ya que pueden mantener a los niños y las mascotas contenidos de forma segura dentro de una propiedad y al mismo tiempo permitir una vista abierta del área circundante.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-11-05T21:03:21.665Z",
+      "updatedAt": "2025-11-09T04:13:13.608Z",
+      "publishedAt": "2025-11-09T04:13:13.646Z",
+      "locale": null,
+      "shortDescription": "Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales.",
+      "category": {
+        "id": 1,
+        "documentId": "y3jht9w8p43gy721oza7baiz",
+        "name": "Cerca de PVC",
+        "slug": "cerca-pvc",
+        "createdAt": "2025-11-05T20:00:36.707Z",
+        "updatedAt": "2025-11-05T20:21:19.142Z",
+        "publishedAt": "2025-11-05T20:21:19.134Z",
+        "locale": null
+      },
+      "images": [
+        {
+          "id": 7,
+          "documentId": "h9fnk2vmjpr15f98ihcxt40n",
+          "name": "pvc_vinilo_2.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 654,
+          "height": 494,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_2_1c3cea0189.png",
+              "hash": "small_pvc_vinilo_2_1c3cea0189",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_2.png",
+              "path": null,
+              "size": 368.55,
+              "width": 500,
+              "height": 378,
+              "sizeInBytes": 368553
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_2_1c3cea0189.png",
+              "hash": "thumbnail_pvc_vinilo_2_1c3cea0189",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_2.png",
+              "path": null,
+              "size": 73.65,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 73647
+            }
+          },
+          "hash": "pvc_vinilo_2_1c3cea0189",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 162.64,
+          "url": "/uploads/pvc_vinilo_2_1c3cea0189.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.638Z",
+          "updatedAt": "2025-11-05T21:00:06.638Z",
+          "publishedAt": "2025-11-05T21:00:06.638Z",
+          "locale": null
+        },
+        {
+          "id": 8,
+          "documentId": "h5ry6isy0f2cv977zqjh5xue",
+          "name": "pvc_vinilo_1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 702,
+          "height": 575,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_1_390258db67.png",
+              "hash": "small_pvc_vinilo_1_390258db67",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_1.png",
+              "path": null,
+              "size": 352.62,
+              "width": 500,
+              "height": 410,
+              "sizeInBytes": 352623
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_1_390258db67.png",
+              "hash": "thumbnail_pvc_vinilo_1_390258db67",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_1.png",
+              "path": null,
+              "size": 60.64,
+              "width": 190,
+              "height": 156,
+              "sizeInBytes": 60640
+            }
+          },
+          "hash": "pvc_vinilo_1_390258db67",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 167.84,
+          "url": "/uploads/pvc_vinilo_1_390258db67.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.816Z",
+          "updatedAt": "2025-11-05T21:00:06.816Z",
+          "publishedAt": "2025-11-05T21:00:06.816Z",
+          "locale": null
+        },
+        {
+          "id": 9,
+          "documentId": "p68p6bx6angyafydeocd0yiz",
+          "name": "pvc_vinilo_3.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 651,
+          "height": 491,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_3_1a5a149d0a.png",
+              "hash": "small_pvc_vinilo_3_1a5a149d0a",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_3.png",
+              "path": null,
+              "size": 497.93,
+              "width": 500,
+              "height": 377,
+              "sizeInBytes": 497928
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_3_1a5a149d0a.png",
+              "hash": "thumbnail_pvc_vinilo_3_1a5a149d0a",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_3.png",
+              "path": null,
+              "size": 90.69,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 90686
+            }
+          },
+          "hash": "pvc_vinilo_3_1a5a149d0a",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 221.95,
+          "url": "/uploads/pvc_vinilo_3_1a5a149d0a.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.938Z",
+          "updatedAt": "2025-11-05T21:00:06.938Z",
+          "publishedAt": "2025-11-05T21:00:06.938Z",
+          "locale": null
+        }
+      ],
+      "pricing": {
+        "id": 7,
+        "unitType": "Metro Cuadrado",
+        "basePrice": 335,
+        "onSale": false,
+        "salePrice": null,
+        "bulkDiscount": null
+      },
+      "options": [],
+      "relatedProducts": [
+        {
+          "id": 9,
+          "documentId": "tzzqtgnt9wdec1i7v4darqxj",
+          "name": "Valla de privacidad total de PVC FenceMaster FM-102 para jardín y casa",
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "FM-102 es una valla de PVC de total privacidad, de 2,44 metros de ancho y 1,83 metros de alto, consta de poste, rieles y tablas (machihembrado). Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables. Las tablas están diseñadas con machihembrado, fáciles de bloquear entre sí y fáciles de instalar. La superficie del tablero está diseñada con ranuras para lograr simplicidad y elegancia. Esta valla es su opción ideal para casas diseñadas con un estilo moderno y contemporáneo.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-11-05T20:19:29.941Z",
+          "updatedAt": "2025-11-09T04:13:59.549Z",
+          "publishedAt": "2025-11-09T04:13:59.579Z",
+          "locale": null,
+          "shortDescription": "Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables."
+        }
+      ],
+      "isRelatedTo": [],
+      "specifications": [
+        {
+          "id": 25,
+          "material": "Correo",
+          "quantity": 1,
+          "section": "101,6 x 101,6",
+          "long": "1650",
+          "thickness": "3.8"
+        },
+        {
+          "id": 26,
+          "material": "Riel superior",
+          "quantity": 1,
+          "section": "50, 8 x 88,9",
+          "long": "1866",
+          "thickness": "2.8"
+        },
+        {
+          "id": 27,
+          "material": "Riel inferior",
+          "quantity": 1,
+          "section": "50,8 x 88,9",
+          "long": "1866",
+          "thickness": "2.8"
+        },
+        {
+          "id": 28,
+          "material": "Piquete",
+          "quantity": 12,
+          "section": "22,2 X 76,2",
+          "long": "849",
+          "thickness": "2.0"
+        },
+        {
+          "id": 29,
+          "material": "Tapa de poste",
+          "quantity": 1,
+          "section": "Gorra de Nueva Inglaterra",
+          "long": null,
+          "thickness": null
+        },
+        {
+          "id": 30,
+          "material": "Gorra de piquete",
+          "quantity": 12,
+          "section": "Tapa afilada",
+          "long": null,
+          "thickness": null
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 6,
+      "documentId": "f4i9cmtu8ezpud3u2z7avb5v",
+      "name": "Valla de piquete de vinilo de PVC FM-401 para propiedad residencial, jardín",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La cerca de estacas FM-401 consta de un poste de 4”x4”, rieles abiertos y nervados de 2”x3-1/2” y estacas de 7/8”x3”. Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales. Esto crea una barrera decorativa pero funcional que puede agregar un toque encantador y acogedor a cualquier propiedad. Las vallas FM-401 también pueden verse como un símbolo de seguridad, ya que pueden mantener a los niños y las mascotas contenidos de forma segura dentro de una propiedad y al mismo tiempo permitir una vista abierta del área circundante.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-11-05T21:03:21.665Z",
+      "updatedAt": "2025-11-09T04:13:13.608Z",
+      "publishedAt": null,
+      "locale": null,
+      "shortDescription": "Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales.",
+      "category": {
+        "id": 1,
+        "documentId": "y3jht9w8p43gy721oza7baiz",
+        "name": "Cerca de PVC",
+        "slug": "cerca-pvc",
+        "createdAt": "2025-11-05T20:00:36.707Z",
+        "updatedAt": "2025-11-05T20:21:19.142Z",
+        "publishedAt": "2025-11-05T20:21:19.134Z",
+        "locale": null
+      },
+      "images": [
+        {
+          "id": 7,
+          "documentId": "h9fnk2vmjpr15f98ihcxt40n",
+          "name": "pvc_vinilo_2.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 654,
+          "height": 494,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_2_1c3cea0189.png",
+              "hash": "small_pvc_vinilo_2_1c3cea0189",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_2.png",
+              "path": null,
+              "size": 368.55,
+              "width": 500,
+              "height": 378,
+              "sizeInBytes": 368553
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_2_1c3cea0189.png",
+              "hash": "thumbnail_pvc_vinilo_2_1c3cea0189",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_2.png",
+              "path": null,
+              "size": 73.65,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 73647
+            }
+          },
+          "hash": "pvc_vinilo_2_1c3cea0189",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 162.64,
+          "url": "/uploads/pvc_vinilo_2_1c3cea0189.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.638Z",
+          "updatedAt": "2025-11-05T21:00:06.638Z",
+          "publishedAt": "2025-11-05T21:00:06.638Z",
+          "locale": null
+        },
+        {
+          "id": 8,
+          "documentId": "h5ry6isy0f2cv977zqjh5xue",
+          "name": "pvc_vinilo_1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 702,
+          "height": 575,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_1_390258db67.png",
+              "hash": "small_pvc_vinilo_1_390258db67",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_1.png",
+              "path": null,
+              "size": 352.62,
+              "width": 500,
+              "height": 410,
+              "sizeInBytes": 352623
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_1_390258db67.png",
+              "hash": "thumbnail_pvc_vinilo_1_390258db67",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_1.png",
+              "path": null,
+              "size": 60.64,
+              "width": 190,
+              "height": 156,
+              "sizeInBytes": 60640
+            }
+          },
+          "hash": "pvc_vinilo_1_390258db67",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 167.84,
+          "url": "/uploads/pvc_vinilo_1_390258db67.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.816Z",
+          "updatedAt": "2025-11-05T21:00:06.816Z",
+          "publishedAt": "2025-11-05T21:00:06.816Z",
+          "locale": null
+        },
+        {
+          "id": 9,
+          "documentId": "p68p6bx6angyafydeocd0yiz",
+          "name": "pvc_vinilo_3.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 651,
+          "height": 491,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_vinilo_3_1a5a149d0a.png",
+              "hash": "small_pvc_vinilo_3_1a5a149d0a",
+              "mime": "image/png",
+              "name": "small_pvc_vinilo_3.png",
+              "path": null,
+              "size": 497.93,
+              "width": 500,
+              "height": 377,
+              "sizeInBytes": 497928
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_vinilo_3_1a5a149d0a.png",
+              "hash": "thumbnail_pvc_vinilo_3_1a5a149d0a",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_vinilo_3.png",
+              "path": null,
+              "size": 90.69,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 90686
+            }
+          },
+          "hash": "pvc_vinilo_3_1a5a149d0a",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 221.95,
+          "url": "/uploads/pvc_vinilo_3_1a5a149d0a.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T21:00:06.938Z",
+          "updatedAt": "2025-11-05T21:00:06.938Z",
+          "publishedAt": "2025-11-05T21:00:06.938Z",
+          "locale": null
+        }
+      ],
+      "pricing": {
+        "id": 5,
+        "unitType": "Metro Cuadrado",
+        "basePrice": 335,
+        "onSale": false,
+        "salePrice": null,
+        "bulkDiscount": null
+      },
+      "options": [],
+      "relatedProducts": [
+        {
+          "id": 1,
+          "documentId": "tzzqtgnt9wdec1i7v4darqxj",
+          "name": "Valla de privacidad total de PVC FenceMaster FM-102 para jardín y casa",
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "FM-102 es una valla de PVC de total privacidad, de 2,44 metros de ancho y 1,83 metros de alto, consta de poste, rieles y tablas (machihembrado). Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables. Las tablas están diseñadas con machihembrado, fáciles de bloquear entre sí y fáciles de instalar. La superficie del tablero está diseñada con ranuras para lograr simplicidad y elegancia. Esta valla es su opción ideal para casas diseñadas con un estilo moderno y contemporáneo.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-11-05T20:19:29.941Z",
+          "updatedAt": "2025-11-09T04:13:59.549Z",
+          "publishedAt": null,
+          "locale": null,
+          "shortDescription": "Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables."
+        }
+      ],
+      "isRelatedTo": [],
+      "specifications": [
+        {
+          "id": 13,
+          "material": "Correo",
+          "quantity": 1,
+          "section": "101,6 x 101,6",
+          "long": "1650",
+          "thickness": "3.8"
+        },
+        {
+          "id": 14,
+          "material": "Riel superior",
+          "quantity": 1,
+          "section": "50, 8 x 88,9",
+          "long": "1866",
+          "thickness": "2.8"
+        },
+        {
+          "id": 15,
+          "material": "Riel inferior",
+          "quantity": 1,
+          "section": "50,8 x 88,9",
+          "long": "1866",
+          "thickness": "2.8"
+        },
+        {
+          "id": 16,
+          "material": "Piquete",
+          "quantity": 12,
+          "section": "22,2 X 76,2",
+          "long": "849",
+          "thickness": "2.0"
+        },
+        {
+          "id": 17,
+          "material": "Tapa de poste",
+          "quantity": 1,
+          "section": "Gorra de Nueva Inglaterra",
+          "long": null,
+          "thickness": null
+        },
+        {
+          "id": 18,
+          "material": "Gorra de piquete",
+          "quantity": 12,
+          "section": "Tapa afilada",
+          "long": null,
+          "thickness": null
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 1,
+      "documentId": "tzzqtgnt9wdec1i7v4darqxj",
+      "name": "Valla de privacidad total de PVC FenceMaster FM-102 para jardín y casa",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "FM-102 es una valla de PVC de total privacidad, de 2,44 metros de ancho y 1,83 metros de alto, consta de poste, rieles y tablas (machihembrado). Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables. Las tablas están diseñadas con machihembrado, fáciles de bloquear entre sí y fáciles de instalar. La superficie del tablero está diseñada con ranuras para lograr simplicidad y elegancia. Esta valla es su opción ideal para casas diseñadas con un estilo moderno y contemporáneo.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-11-05T20:19:29.941Z",
+      "updatedAt": "2025-11-09T04:13:59.549Z",
+      "publishedAt": null,
+      "locale": null,
+      "shortDescription": "Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables.",
+      "category": {
+        "id": 1,
+        "documentId": "y3jht9w8p43gy721oza7baiz",
+        "name": "Cerca de PVC",
+        "slug": "cerca-pvc",
+        "createdAt": "2025-11-05T20:00:36.707Z",
+        "updatedAt": "2025-11-05T20:21:19.142Z",
+        "publishedAt": "2025-11-05T20:21:19.134Z",
+        "locale": null
+      },
+      "images": [
+        {
+          "id": 4,
+          "documentId": "kfewcnyxuiyiwjul7dkxrf68",
+          "name": "pvc_2.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 654,
+          "height": 493,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_2_3cbd3eaf7c.png",
+              "hash": "small_pvc_2_3cbd3eaf7c",
+              "mime": "image/png",
+              "name": "small_pvc_2.png",
+              "path": null,
+              "size": 307.44,
+              "width": 500,
+              "height": 377,
+              "sizeInBytes": 307439
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_2_3cbd3eaf7c.png",
+              "hash": "thumbnail_pvc_2_3cbd3eaf7c",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_2.png",
+              "path": null,
+              "size": 61.03,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 61028
+            }
+          },
+          "hash": "pvc_2_3cbd3eaf7c",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 127.41,
+          "url": "/uploads/pvc_2_3cbd3eaf7c.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.204Z",
+          "updatedAt": "2025-11-05T20:23:44.204Z",
+          "publishedAt": "2025-11-05T20:23:44.204Z",
+          "locale": null
+        },
+        {
+          "id": 5,
+          "documentId": "awm7fmcedsh06pzmc71m0pyy",
+          "name": "pvc_1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 647,
+          "height": 489,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_1_3caeea8557.png",
+              "hash": "small_pvc_1_3caeea8557",
+              "mime": "image/png",
+              "name": "small_pvc_1.png",
+              "path": null,
+              "size": 408.56,
+              "width": 500,
+              "height": 378,
+              "sizeInBytes": 408555
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_1_3caeea8557.png",
+              "hash": "thumbnail_pvc_1_3caeea8557",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_1.png",
+              "path": null,
+              "size": 78.64,
+              "width": 206,
+              "height": 156,
+              "sizeInBytes": 78642
+            }
+          },
+          "hash": "pvc_1_3caeea8557",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 180.78,
+          "url": "/uploads/pvc_1_3caeea8557.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.474Z",
+          "updatedAt": "2025-11-05T20:23:44.474Z",
+          "publishedAt": "2025-11-05T20:23:44.475Z",
+          "locale": null
+        },
+        {
+          "id": 6,
+          "documentId": "h9k99wi0pwwbx9zhoc7c1r8u",
+          "name": "pvc_3.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 653,
+          "height": 490,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_3_f1fab5c1ed.png",
+              "hash": "small_pvc_3_f1fab5c1ed",
+              "mime": "image/png",
+              "name": "small_pvc_3.png",
+              "path": null,
+              "size": 413.06,
+              "width": 500,
+              "height": 375,
+              "sizeInBytes": 413063
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_3_f1fab5c1ed.png",
+              "hash": "thumbnail_pvc_3_f1fab5c1ed",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_3.png",
+              "path": null,
+              "size": 81.14,
+              "width": 208,
+              "height": 156,
+              "sizeInBytes": 81137
+            }
+          },
+          "hash": "pvc_3_f1fab5c1ed",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 171.3,
+          "url": "/uploads/pvc_3_f1fab5c1ed.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.562Z",
+          "updatedAt": "2025-11-05T20:23:44.562Z",
+          "publishedAt": "2025-11-05T20:23:44.562Z",
+          "locale": null
+        }
+      ],
+      "pricing": {
+        "id": 1,
+        "unitType": "Metro Cuadrado",
+        "basePrice": 400,
+        "onSale": false,
+        "salePrice": null,
+        "bulkDiscount": null
+      },
+      "options": [],
+      "relatedProducts": [],
+      "isRelatedTo": [
+        {
+          "id": 6,
+          "documentId": "f4i9cmtu8ezpud3u2z7avb5v",
+          "name": "Valla de piquete de vinilo de PVC FM-401 para propiedad residencial, jardín",
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "La cerca de estacas FM-401 consta de un poste de 4”x4”, rieles abiertos y nervados de 2”x3-1/2” y estacas de 7/8”x3”. Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales. Esto crea una barrera decorativa pero funcional que puede agregar un toque encantador y acogedor a cualquier propiedad. Las vallas FM-401 también pueden verse como un símbolo de seguridad, ya que pueden mantener a los niños y las mascotas contenidos de forma segura dentro de una propiedad y al mismo tiempo permitir una vista abierta del área circundante.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-11-05T21:03:21.665Z",
+          "updatedAt": "2025-11-09T04:13:13.608Z",
+          "publishedAt": null,
+          "locale": null,
+          "shortDescription": "Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales."
+        }
+      ],
+      "specifications": [
+        {
+          "id": 1,
+          "material": "Correo",
+          "quantity": 1,
+          "section": "127x127",
+          "long": "2743",
+          "thickness": "3.8"
+        },
+        {
+          "id": 2,
+          "material": "Carril",
+          "quantity": 2,
+          "section": "50,8 x 152,4",
+          "long": "2387",
+          "thickness": "2.3"
+        },
+        {
+          "id": 3,
+          "material": "Refuerzo de aluminio",
+          "quantity": 1,
+          "section": "44 x 42,5",
+          "long": "2387",
+          "thickness": "1.8"
+        },
+        {
+          "id": 4,
+          "material": "Junta",
+          "quantity": 8,
+          "section": "22,2 x 287",
+          "long": "1543",
+          "thickness": "1.3"
+        },
+        {
+          "id": 5,
+          "material": "Canal U",
+          "quantity": 2,
+          "section": "22.2 Apertura",
+          "long": "1475",
+          "thickness": "1.0"
+        },
+        {
+          "id": 6,
+          "material": "Tapa de poste",
+          "quantity": 1,
+          "section": "Nueva Inglaterra",
+          "long": null,
+          "thickness": null
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 9,
+      "documentId": "tzzqtgnt9wdec1i7v4darqxj",
+      "name": "Valla de privacidad total de PVC FenceMaster FM-102 para jardín y casa",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "FM-102 es una valla de PVC de total privacidad, de 2,44 metros de ancho y 1,83 metros de alto, consta de poste, rieles y tablas (machihembrado). Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables. Las tablas están diseñadas con machihembrado, fáciles de bloquear entre sí y fáciles de instalar. La superficie del tablero está diseñada con ranuras para lograr simplicidad y elegancia. Esta valla es su opción ideal para casas diseñadas con un estilo moderno y contemporáneo.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-11-05T20:19:29.941Z",
+      "updatedAt": "2025-11-09T04:13:59.549Z",
+      "publishedAt": "2025-11-09T04:13:59.579Z",
+      "locale": null,
+      "shortDescription": "Los postes se enrutan con una máquina CNC, los rieles tienen extremos con muescas, son fáciles de instalar, seguros y estables.",
+      "category": {
+        "id": 1,
+        "documentId": "y3jht9w8p43gy721oza7baiz",
+        "name": "Cerca de PVC",
+        "slug": "cerca-pvc",
+        "createdAt": "2025-11-05T20:00:36.707Z",
+        "updatedAt": "2025-11-05T20:21:19.142Z",
+        "publishedAt": "2025-11-05T20:21:19.134Z",
+        "locale": null
+      },
+      "images": [
+        {
+          "id": 4,
+          "documentId": "kfewcnyxuiyiwjul7dkxrf68",
+          "name": "pvc_2.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 654,
+          "height": 493,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_2_3cbd3eaf7c.png",
+              "hash": "small_pvc_2_3cbd3eaf7c",
+              "mime": "image/png",
+              "name": "small_pvc_2.png",
+              "path": null,
+              "size": 307.44,
+              "width": 500,
+              "height": 377,
+              "sizeInBytes": 307439
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_2_3cbd3eaf7c.png",
+              "hash": "thumbnail_pvc_2_3cbd3eaf7c",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_2.png",
+              "path": null,
+              "size": 61.03,
+              "width": 207,
+              "height": 156,
+              "sizeInBytes": 61028
+            }
+          },
+          "hash": "pvc_2_3cbd3eaf7c",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 127.41,
+          "url": "/uploads/pvc_2_3cbd3eaf7c.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.204Z",
+          "updatedAt": "2025-11-05T20:23:44.204Z",
+          "publishedAt": "2025-11-05T20:23:44.204Z",
+          "locale": null
+        },
+        {
+          "id": 5,
+          "documentId": "awm7fmcedsh06pzmc71m0pyy",
+          "name": "pvc_1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 647,
+          "height": 489,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_1_3caeea8557.png",
+              "hash": "small_pvc_1_3caeea8557",
+              "mime": "image/png",
+              "name": "small_pvc_1.png",
+              "path": null,
+              "size": 408.56,
+              "width": 500,
+              "height": 378,
+              "sizeInBytes": 408555
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_1_3caeea8557.png",
+              "hash": "thumbnail_pvc_1_3caeea8557",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_1.png",
+              "path": null,
+              "size": 78.64,
+              "width": 206,
+              "height": 156,
+              "sizeInBytes": 78642
+            }
+          },
+          "hash": "pvc_1_3caeea8557",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 180.78,
+          "url": "/uploads/pvc_1_3caeea8557.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.474Z",
+          "updatedAt": "2025-11-05T20:23:44.474Z",
+          "publishedAt": "2025-11-05T20:23:44.475Z",
+          "locale": null
+        },
+        {
+          "id": 6,
+          "documentId": "h9k99wi0pwwbx9zhoc7c1r8u",
+          "name": "pvc_3.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 653,
+          "height": 490,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_pvc_3_f1fab5c1ed.png",
+              "hash": "small_pvc_3_f1fab5c1ed",
+              "mime": "image/png",
+              "name": "small_pvc_3.png",
+              "path": null,
+              "size": 413.06,
+              "width": 500,
+              "height": 375,
+              "sizeInBytes": 413063
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_pvc_3_f1fab5c1ed.png",
+              "hash": "thumbnail_pvc_3_f1fab5c1ed",
+              "mime": "image/png",
+              "name": "thumbnail_pvc_3.png",
+              "path": null,
+              "size": 81.14,
+              "width": 208,
+              "height": 156,
+              "sizeInBytes": 81137
+            }
+          },
+          "hash": "pvc_3_f1fab5c1ed",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 171.3,
+          "url": "/uploads/pvc_3_f1fab5c1ed.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "folderPath": "/",
+          "createdAt": "2025-11-05T20:23:44.562Z",
+          "updatedAt": "2025-11-05T20:23:44.562Z",
+          "publishedAt": "2025-11-05T20:23:44.562Z",
+          "locale": null
+        }
+      ],
+      "pricing": {
+        "id": 8,
+        "unitType": "Metro Cuadrado",
+        "basePrice": 400,
+        "onSale": false,
+        "salePrice": null,
+        "bulkDiscount": null
+      },
+      "options": [],
+      "relatedProducts": [],
+      "isRelatedTo": [
+        {
+          "id": 8,
+          "documentId": "f4i9cmtu8ezpud3u2z7avb5v",
+          "name": "Valla de piquete de vinilo de PVC FM-401 para propiedad residencial, jardín",
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "La cerca de estacas FM-401 consta de un poste de 4”x4”, rieles abiertos y nervados de 2”x3-1/2” y estacas de 7/8”x3”. Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales. Esto crea una barrera decorativa pero funcional que puede agregar un toque encantador y acogedor a cualquier propiedad. Las vallas FM-401 también pueden verse como un símbolo de seguridad, ya que pueden mantener a los niños y las mascotas contenidos de forma segura dentro de una propiedad y al mismo tiempo permitir una vista abierta del área circundante.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-11-05T21:03:21.665Z",
+          "updatedAt": "2025-11-09T04:13:13.608Z",
+          "publishedAt": "2025-11-09T04:13:13.646Z",
+          "locale": null,
+          "shortDescription": "Tiene una apariencia clásica y atemporal. Las cercas de estacas FM-401 están hechas de PVC y consisten en estacas verticales espaciadas uniformemente que están unidas a rieles horizontales."
+        }
+      ],
+      "specifications": [
+        {
+          "id": 31,
+          "material": "Correo",
+          "quantity": 1,
+          "section": "127x127",
+          "long": "2743",
+          "thickness": "3.8"
+        },
+        {
+          "id": 32,
+          "material": "Carril",
+          "quantity": 2,
+          "section": "50,8 x 152,4",
+          "long": "2387",
+          "thickness": "2.3"
+        },
+        {
+          "id": 33,
+          "material": "Refuerzo de aluminio",
+          "quantity": 1,
+          "section": "44 x 42,5",
+          "long": "2387",
+          "thickness": "1.8"
+        },
+        {
+          "id": 34,
+          "material": "Junta",
+          "quantity": 8,
+          "section": "22,2 x 287",
+          "long": "1543",
+          "thickness": "1.3"
+        },
+        {
+          "id": 35,
+          "material": "Canal U",
+          "quantity": 2,
+          "section": "22.2 Apertura",
+          "long": "1475",
+          "thickness": "1.0"
+        },
+        {
+          "id": 36,
+          "material": "Tapa de poste",
+          "quantity": 1,
+          "section": "Nueva Inglaterra",
+          "long": null,
+          "thickness": null
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    }
+  ],
+  "product-page": [
+    {
+      "id": 1,
+      "documentId": "ogrv39qq7qwmjbuvsl9syzhb",
+      "title": "Nuestros Productos",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Descubre nuestra selección de cercas de PVC diseñadas para cada necesidad. Calidad, durabilidad y estilo en cada instalación.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-11-09T03:20:01.107Z",
+      "updatedAt": "2025-11-09T03:20:03.110Z",
+      "publishedAt": null,
+      "locale": null,
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 2,
+      "documentId": "ogrv39qq7qwmjbuvsl9syzhb",
+      "title": "Nuestros Productos",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Descubre nuestra selección de cercas de PVC diseñadas para cada necesidad. Calidad, durabilidad y estilo en cada instalación.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2025-11-09T03:20:01.107Z",
+      "updatedAt": "2025-11-09T03:20:03.110Z",
+      "publishedAt": "2025-11-09T03:20:03.117Z",
+      "locale": null,
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    }
+  ],
+  "testimonial": [
+    {
+      "id": 1,
+      "documentId": "tlof3qf4bqsju1r95i3p6uvw",
+      "authorName": "María González",
+      "titleOrLocation": "Ciudad de Panamá",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estoy encantada con mi cerca de PVC. El equipo de Muros Panamá fue muy profesional desde el inicio. La instalación fue rápida y el resultado superó mis expectativas. Mi patio ahora tiene total privacidad y se ve hermoso.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "isFeatured": false,
+      "order": null,
+      "createdAt": "2025-11-09T16:03:17.642Z",
+      "updatedAt": "2025-11-09T16:15:20.006Z",
+      "publishedAt": null,
+      "locale": null,
+      "avatar": {
+        "id": 15,
+        "documentId": "ayfna064o5dre2sb9s28700s",
+        "name": "avatar_mujer_1.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1024,
+        "height": 1024,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "/uploads/large_avatar_mujer_1_7142d6aa98.png",
+            "hash": "large_avatar_mujer_1_7142d6aa98",
+            "mime": "image/png",
+            "name": "large_avatar_mujer_1.png",
+            "path": null,
+            "size": 1720.91,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 1720914
+          },
+          "small": {
+            "ext": ".png",
+            "url": "/uploads/small_avatar_mujer_1_7142d6aa98.png",
+            "hash": "small_avatar_mujer_1_7142d6aa98",
+            "mime": "image/png",
+            "name": "small_avatar_mujer_1.png",
+            "path": null,
+            "size": 478.21,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 478208
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "/uploads/medium_avatar_mujer_1_7142d6aa98.png",
+            "hash": "medium_avatar_mujer_1_7142d6aa98",
+            "mime": "image/png",
+            "name": "medium_avatar_mujer_1.png",
+            "path": null,
+            "size": 1039.03,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 1039031
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "/uploads/thumbnail_avatar_mujer_1_7142d6aa98.png",
+            "hash": "thumbnail_avatar_mujer_1_7142d6aa98",
+            "mime": "image/png",
+            "name": "thumbnail_avatar_mujer_1.png",
+            "path": null,
+            "size": 53.81,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 53805
+          }
+        },
+        "hash": "avatar_mujer_1_7142d6aa98",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 412.74,
+        "url": "/uploads/avatar_mujer_1_7142d6aa98.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "folderPath": "/1",
+        "createdAt": "2025-11-09T16:14:35.585Z",
+        "updatedAt": "2025-11-09T16:14:57.251Z",
+        "publishedAt": "2025-11-09T16:14:35.585Z",
+        "locale": null
+      },
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 3,
+      "documentId": "tlof3qf4bqsju1r95i3p6uvw",
+      "authorName": "María González",
+      "titleOrLocation": "Ciudad de Panamá",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estoy encantada con mi cerca de PVC. El equipo de Muros Panamá fue muy profesional desde el inicio. La instalación fue rápida y el resultado superó mis expectativas. Mi patio ahora tiene total privacidad y se ve hermoso.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "isFeatured": false,
+      "order": null,
+      "createdAt": "2025-11-09T16:03:17.642Z",
+      "updatedAt": "2025-11-09T16:15:20.006Z",
+      "publishedAt": "2025-11-09T16:15:20.017Z",
+      "locale": null,
+      "avatar": {
+        "id": 15,
+        "documentId": "ayfna064o5dre2sb9s28700s",
+        "name": "avatar_mujer_1.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1024,
+        "height": 1024,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "/uploads/large_avatar_mujer_1_7142d6aa98.png",
+            "hash": "large_avatar_mujer_1_7142d6aa98",
+            "mime": "image/png",
+            "name": "large_avatar_mujer_1.png",
+            "path": null,
+            "size": 1720.91,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 1720914
+          },
+          "small": {
+            "ext": ".png",
+            "url": "/uploads/small_avatar_mujer_1_7142d6aa98.png",
+            "hash": "small_avatar_mujer_1_7142d6aa98",
+            "mime": "image/png",
+            "name": "small_avatar_mujer_1.png",
+            "path": null,
+            "size": 478.21,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 478208
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "/uploads/medium_avatar_mujer_1_7142d6aa98.png",
+            "hash": "medium_avatar_mujer_1_7142d6aa98",
+            "mime": "image/png",
+            "name": "medium_avatar_mujer_1.png",
+            "path": null,
+            "size": 1039.03,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 1039031
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "/uploads/thumbnail_avatar_mujer_1_7142d6aa98.png",
+            "hash": "thumbnail_avatar_mujer_1_7142d6aa98",
+            "mime": "image/png",
+            "name": "thumbnail_avatar_mujer_1.png",
+            "path": null,
+            "size": 53.81,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 53805
+          }
+        },
+        "hash": "avatar_mujer_1_7142d6aa98",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 412.74,
+        "url": "/uploads/avatar_mujer_1_7142d6aa98.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "folderPath": "/1",
+        "createdAt": "2025-11-09T16:14:35.585Z",
+        "updatedAt": "2025-11-09T16:14:57.251Z",
+        "publishedAt": "2025-11-09T16:14:35.585Z",
+        "locale": null
+      },
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 4,
+      "documentId": "m8q3tksieksd36byr58frfjj",
+      "authorName": "Roberto Martínez",
+      "titleOrLocation": "Coronado",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Después de años luchando con cercas de madera que requerían mantenimiento constante, decidí cambiar a PVC con Muros Panamá. La mejor decisión que pude tomar. Cero mantenimiento y lucen como nuevas después de dos años.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "isFeatured": true,
+      "order": null,
+      "createdAt": "2025-11-09T16:28:29.148Z",
+      "updatedAt": "2025-11-09T16:28:29.148Z",
+      "publishedAt": null,
+      "locale": null,
+      "avatar": {
+        "id": 14,
+        "documentId": "per4chppllo01rduouue4aki",
+        "name": "avatar_hombre_3.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1024,
+        "height": 1024,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "/uploads/large_avatar_hombre_3_7464f08c4f.png",
+            "hash": "large_avatar_hombre_3_7464f08c4f",
+            "mime": "image/png",
+            "name": "large_avatar_hombre_3.png",
+            "path": null,
+            "size": 1624.18,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 1624180
+          },
+          "small": {
+            "ext": ".png",
+            "url": "/uploads/small_avatar_hombre_3_7464f08c4f.png",
+            "hash": "small_avatar_hombre_3_7464f08c4f",
+            "mime": "image/png",
+            "name": "small_avatar_hombre_3.png",
+            "path": null,
+            "size": 461.79,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 461791
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "/uploads/medium_avatar_hombre_3_7464f08c4f.png",
+            "hash": "medium_avatar_hombre_3_7464f08c4f",
+            "mime": "image/png",
+            "name": "medium_avatar_hombre_3.png",
+            "path": null,
+            "size": 1000.78,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 1000777
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "/uploads/thumbnail_avatar_hombre_3_7464f08c4f.png",
+            "hash": "thumbnail_avatar_hombre_3_7464f08c4f",
+            "mime": "image/png",
+            "name": "thumbnail_avatar_hombre_3.png",
+            "path": null,
+            "size": 54.7,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 54701
+          }
+        },
+        "hash": "avatar_hombre_3_7464f08c4f",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 355.8,
+        "url": "/uploads/avatar_hombre_3_7464f08c4f.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "folderPath": "/1",
+        "createdAt": "2025-11-09T16:14:35.571Z",
+        "updatedAt": "2025-11-09T16:14:35.571Z",
+        "publishedAt": "2025-11-09T16:14:35.571Z",
+        "locale": null
+      },
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 5,
+      "documentId": "m8q3tksieksd36byr58frfjj",
+      "authorName": "Roberto Martínez",
+      "titleOrLocation": "Coronado",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Después de años luchando con cercas de madera que requerían mantenimiento constante, decidí cambiar a PVC con Muros Panamá. La mejor decisión que pude tomar. Cero mantenimiento y lucen como nuevas después de dos años.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "isFeatured": true,
+      "order": null,
+      "createdAt": "2025-11-09T16:28:29.148Z",
+      "updatedAt": "2025-11-09T16:28:29.148Z",
+      "publishedAt": "2025-11-09T16:28:29.161Z",
+      "locale": null,
+      "avatar": {
+        "id": 14,
+        "documentId": "per4chppllo01rduouue4aki",
+        "name": "avatar_hombre_3.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1024,
+        "height": 1024,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "/uploads/large_avatar_hombre_3_7464f08c4f.png",
+            "hash": "large_avatar_hombre_3_7464f08c4f",
+            "mime": "image/png",
+            "name": "large_avatar_hombre_3.png",
+            "path": null,
+            "size": 1624.18,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 1624180
+          },
+          "small": {
+            "ext": ".png",
+            "url": "/uploads/small_avatar_hombre_3_7464f08c4f.png",
+            "hash": "small_avatar_hombre_3_7464f08c4f",
+            "mime": "image/png",
+            "name": "small_avatar_hombre_3.png",
+            "path": null,
+            "size": 461.79,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 461791
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "/uploads/medium_avatar_hombre_3_7464f08c4f.png",
+            "hash": "medium_avatar_hombre_3_7464f08c4f",
+            "mime": "image/png",
+            "name": "medium_avatar_hombre_3.png",
+            "path": null,
+            "size": 1000.78,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 1000777
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "/uploads/thumbnail_avatar_hombre_3_7464f08c4f.png",
+            "hash": "thumbnail_avatar_hombre_3_7464f08c4f",
+            "mime": "image/png",
+            "name": "thumbnail_avatar_hombre_3.png",
+            "path": null,
+            "size": 54.7,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 54701
+          }
+        },
+        "hash": "avatar_hombre_3_7464f08c4f",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 355.8,
+        "url": "/uploads/avatar_hombre_3_7464f08c4f.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "folderPath": "/1",
+        "createdAt": "2025-11-09T16:14:35.571Z",
+        "updatedAt": "2025-11-09T16:14:35.571Z",
+        "publishedAt": "2025-11-09T16:14:35.571Z",
+        "locale": null
+      },
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 6,
+      "documentId": "gbqpduqjtr6ap5mo8widoatz",
+      "authorName": "Ana Lucía Pérez",
+      "titleOrLocation": "Arraijan - Dueña de negocio",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contraté a Muros Panamá para cercar mi propiedad comercial. El servicio fue impecable, el precio justo y la calidad excepcional. Mis clientes siempre comentan lo bien que se ve el lugar. ¡Totalmente recomendados!",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "isFeatured": false,
+      "order": null,
+      "createdAt": "2025-11-10T19:10:26.521Z",
+      "updatedAt": "2025-11-10T19:10:26.521Z",
+      "publishedAt": null,
+      "locale": null,
+      "avatar": {
+        "id": 13,
+        "documentId": "ogz6w940bkqcpwjs6x95heoa",
+        "name": "avatar_mujer_3.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1024,
+        "height": 1024,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "/uploads/large_avatar_mujer_3_ccb53a1886.png",
+            "hash": "large_avatar_mujer_3_ccb53a1886",
+            "mime": "image/png",
+            "name": "large_avatar_mujer_3.png",
+            "path": null,
+            "size": 1557.72,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 1557715
+          },
+          "small": {
+            "ext": ".png",
+            "url": "/uploads/small_avatar_mujer_3_ccb53a1886.png",
+            "hash": "small_avatar_mujer_3_ccb53a1886",
+            "mime": "image/png",
+            "name": "small_avatar_mujer_3.png",
+            "path": null,
+            "size": 433.68,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 433677
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "/uploads/medium_avatar_mujer_3_ccb53a1886.png",
+            "hash": "medium_avatar_mujer_3_ccb53a1886",
+            "mime": "image/png",
+            "name": "medium_avatar_mujer_3.png",
+            "path": null,
+            "size": 949.99,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 949994
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "/uploads/thumbnail_avatar_mujer_3_ccb53a1886.png",
+            "hash": "thumbnail_avatar_mujer_3_ccb53a1886",
+            "mime": "image/png",
+            "name": "thumbnail_avatar_mujer_3.png",
+            "path": null,
+            "size": 50.89,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 50893
+          }
+        },
+        "hash": "avatar_mujer_3_ccb53a1886",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 375.72,
+        "url": "/uploads/avatar_mujer_3_ccb53a1886.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "folderPath": "/1",
+        "createdAt": "2025-11-09T16:14:34.337Z",
+        "updatedAt": "2025-11-09T16:14:34.337Z",
+        "publishedAt": "2025-11-09T16:14:34.338Z",
+        "locale": null
+      },
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 7,
+      "documentId": "gbqpduqjtr6ap5mo8widoatz",
+      "authorName": "Ana Lucía Pérez",
+      "titleOrLocation": "Arraijan - Dueña de negocio",
+      "content": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contraté a Muros Panamá para cercar mi propiedad comercial. El servicio fue impecable, el precio justo y la calidad excepcional. Mis clientes siempre comentan lo bien que se ve el lugar. ¡Totalmente recomendados!",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "isFeatured": false,
+      "order": null,
+      "createdAt": "2025-11-10T19:10:26.521Z",
+      "updatedAt": "2025-11-10T19:10:26.521Z",
+      "publishedAt": "2025-11-10T19:10:26.539Z",
+      "locale": null,
+      "avatar": {
+        "id": 13,
+        "documentId": "ogz6w940bkqcpwjs6x95heoa",
+        "name": "avatar_mujer_3.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1024,
+        "height": 1024,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "/uploads/large_avatar_mujer_3_ccb53a1886.png",
+            "hash": "large_avatar_mujer_3_ccb53a1886",
+            "mime": "image/png",
+            "name": "large_avatar_mujer_3.png",
+            "path": null,
+            "size": 1557.72,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 1557715
+          },
+          "small": {
+            "ext": ".png",
+            "url": "/uploads/small_avatar_mujer_3_ccb53a1886.png",
+            "hash": "small_avatar_mujer_3_ccb53a1886",
+            "mime": "image/png",
+            "name": "small_avatar_mujer_3.png",
+            "path": null,
+            "size": 433.68,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 433677
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "/uploads/medium_avatar_mujer_3_ccb53a1886.png",
+            "hash": "medium_avatar_mujer_3_ccb53a1886",
+            "mime": "image/png",
+            "name": "medium_avatar_mujer_3.png",
+            "path": null,
+            "size": 949.99,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 949994
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "/uploads/thumbnail_avatar_mujer_3_ccb53a1886.png",
+            "hash": "thumbnail_avatar_mujer_3_ccb53a1886",
+            "mime": "image/png",
+            "name": "thumbnail_avatar_mujer_3.png",
+            "path": null,
+            "size": 50.89,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 50893
+          }
+        },
+        "hash": "avatar_mujer_3_ccb53a1886",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 375.72,
+        "url": "/uploads/avatar_mujer_3_ccb53a1886.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "folderPath": "/1",
+        "createdAt": "2025-11-09T16:14:34.337Z",
+        "updatedAt": "2025-11-09T16:14:34.337Z",
+        "publishedAt": "2025-11-09T16:14:34.338Z",
+        "locale": null
+      },
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    }
+  ],
+  "testimonial-page": [
+    {
+      "id": 1,
+      "documentId": "kcyuxmgluodun43kisa8s5k1",
+      "createdAt": "2025-11-09T16:37:56.981Z",
+      "updatedAt": "2025-11-09T16:42:35.658Z",
+      "publishedAt": null,
+      "locale": null,
+      "title": "Lo Que Dicen Nuestros Clientes",
+      "isRandom": false,
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La satisfacción de nuestros clientes es nuestra mejor carta de presentación",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    },
+    {
+      "id": 6,
+      "documentId": "kcyuxmgluodun43kisa8s5k1",
+      "createdAt": "2025-11-09T16:37:56.981Z",
+      "updatedAt": "2025-11-09T16:42:35.658Z",
+      "publishedAt": "2025-11-09T16:42:35.667Z",
+      "locale": null,
+      "title": "Lo Que Dicen Nuestros Clientes",
+      "isRandom": false,
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La satisfacción de nuestros clientes es nuestra mejor carta de presentación",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "createdBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "updatedBy": {
+        "id": 1,
+        "documentId": "knyfym00vt1dg08lwnxd5yuu",
+        "firstname": "Richard",
+        "lastname": "Gonzalez",
+        "username": null,
+        "email": "felrichdev@gmail.com",
+        "password": "$2a$10$xrXeE8dFFxD0uyTmn/DWG.XWojmpmLbx08d9TE4cjJVcChY1X9Qiy",
+        "resetPasswordToken": "ee28367c26883b3005a004ee266516ec1ad15a53",
+        "registrationToken": null,
+        "isActive": true,
+        "blocked": false,
+        "preferedLanguage": null,
+        "createdAt": "2025-11-03T18:13:15.647Z",
+        "updatedAt": "2025-12-07T00:23:46.210Z",
+        "publishedAt": "2025-11-03T18:13:15.647Z",
+        "locale": null
+      },
+      "localizations": []
+    }
+  ]
+}

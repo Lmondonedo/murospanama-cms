@@ -37,7 +37,8 @@ async function importExportedData() {
                 delete cleanedEntry.updatedAt;
                 delete cleanedEntry.publishedAt;
 
-                await strapi.documents(`api::${contentType}.${contentType}`).create({
+                const uid = `api::${contentType}.${contentType}`;
+                await strapi.db.query(uid).create({
                   data: cleanedEntry,
                 });
                 imported++;

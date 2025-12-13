@@ -26,13 +26,12 @@ async function exportData() {
     for (const contentType of contentTypes) {
       try {
         console.log(`Exportando ${contentType}...`);
-        const entries = await strapi.documents(`api::${contentType}.${contentType}`).findMany({
-          populate: {
-            deep: 10, // Populate relaciones profundas
-          },
+        const uid = `api::${contentType}.${contentType}`;
+        const entries = await strapi.db.query(uid).findMany({
+          populate: true,
         });
         
-        if (entries.length > 0) {
+        if (entries && entries.length > 0) {
           exportedData[contentType] = entries;
           console.log(`  ✓ ${entries.length} registros exportados`);
         } else {
